@@ -29,7 +29,7 @@ Welcome to **Tembea Afrika**, a beautifully designed and user-friendly tourist t
 ## 🚀 Installation & Setup
 1. **Clone the Repository:**  
    ```sh
-   git clone https://github.com/PLP-WebTechnologies/safaricom-hook-final-project-and-deployment-week-8-lewiii254.git 
+   git clone https://github.com/PLP-WebTechnologies/safaricom-hook-final-project-and-deployment-week-8-mwakidenis.git 
    ```
 
 2. **Navigate to the Project Folder:**  
