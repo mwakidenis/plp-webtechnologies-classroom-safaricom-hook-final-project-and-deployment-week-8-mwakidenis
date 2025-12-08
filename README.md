@@ -66,4 +66,4 @@ The goal of this assignment is to create a **multipage website** that is fully d
 ---**Made with ❤️ by Mwaki Denis**---
 
 ---
-**Appreciating** [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585
+**Appreciating** [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
