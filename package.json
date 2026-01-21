@@ -1,7 +1,6 @@
 {
   "name": "mern-marketplace",
   "version": "2.0.0",
-  "packageManager": "npm@8.19.4",
   "description": "A MERN stack based online marketplace application",
   "author": "Shama Hoque",
   "license": "MIT",
