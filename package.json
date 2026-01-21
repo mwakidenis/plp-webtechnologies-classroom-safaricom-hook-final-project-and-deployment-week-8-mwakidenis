@@ -17,15 +17,20 @@
   },
   "homepage": "https://github.com/shamahoque/mern-marketplace",
   "main": "./dist/server.generated.js",
+
+  "packageManager": "npm@8.19.4",
+
   "scripts": {
     "development": "nodemon",
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
     "start": "NODE_ENV=production node ./dist/server.generated.js"
   },
+
   "engines": {
-    "node": "13.12.0",
-    "npm": "6.14.4"
+    "node": ">=18 <=20",
+    "npm": ">=8"
   },
+
   "devDependencies": {
     "@babel/core": "7.9.0",
     "@babel/preset-env": "7.9.0",
@@ -39,6 +44,7 @@
     "webpack-hot-middleware": "2.25.0",
     "webpack-node-externals": "1.7.2"
   },
+
   "dependencies": {
     "@hot-loader/react-dom": "16.13.0",
     "@material-ui/core": "4.9.8",
